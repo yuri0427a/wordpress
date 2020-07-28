@@ -1,0 +1,39 @@
+## パーマリンク設定
+
+設定▶︎パーマリンク設定
+
+プラグイン▶︎拡張機能
+
+必要なプラグイン
+・Classic Editor
+
+プラグインインストール方法
+１.メニューバーの「プラグイン」
+2.新規追加
+3.検索でクラシックエディターを探す
+4.インストール有効化
+
+・アップドラフトプラス
+簡単にバックアップできる　復元も可能
+プラグインの記事
+https://palulog.com/plugin
+
+・Table of Contents Plus
+目次を設定するときに使う
+
+## ブログのアクセスの確認
+
+・GoogleAnalytics
+### Wordpressとの連携
+下記を参照
+プラグイン　All in One SEOを使用
+https://briarpatch.co.jp/wordpress-googleanalytics
+
+・Google SearchConsole
+どういうキーワードで検索して自分の記事を読んでくれたか分析できる
+
+　1.SearchConsoleアクセス
+　2.URLプレフィックス　サイトのURL入力
+　3.所有権の確認？（GoogleAnalyticsを先に連携しておくとスムーズ）
+
+
